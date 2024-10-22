@@ -1,0 +1,2 @@
+-Para ejecutar el programa, primero cree el archivo VOTOS.DAT en la raiz de los compilados de las clases (misma carpeta)
+-Recomiendo primero ejecutar GraficoVotos y luego SistemaVotantes. INEConsultas puede ejecutarse en cualquier momento.
